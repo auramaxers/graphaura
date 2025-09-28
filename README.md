@@ -1,8 +1,9 @@
 # graphaura
 
+Bring your memories back to life with GraphAura. Transform photos and docs into an AI-powered 3D knowledge graph of people, places, and moments to explore your memories and share insights.
 <img width="1212" height="860" alt="image" src="https://github.com/user-attachments/assets/262190ec-d035-4828-86fe-bb0eb1af5fb4" />
 
-Bring your memories back to life with GraphAura. Transform photos and docs into an AI-powered 3D knowledge graph of people, places, and moments to explore your memories and share insights.
+
 
 ## Repositories
 
